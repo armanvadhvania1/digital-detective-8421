@@ -67,3 +67,11 @@ Each mission in this assignment was completed in order, documented in its own mi
 *Navigating directories, viewing files, and checking permissions in the macOS Terminal.
 *Converting numbers across decimal, binary, and hexadecimal and writing basic Python 3 scripts.
 *Tracking file changes, branching, and committing snapshots with Git.
+
+
+
+
+My Learning:
+*Learned how to initialize a Git repository, stage changes selectively, and write clear commit messages.
+*Learned how branches isolate new changes safely before merging them into main.
+*Learned how to inspect repository history and sync local work with a remote GitHub repository.
